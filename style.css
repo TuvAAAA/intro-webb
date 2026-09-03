@@ -3,7 +3,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 80%;
-    font-size: larger;
+    font-size: 140%;
     background-image: url("hb2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -21,6 +21,10 @@ main{
     padding: 2rem;
     padding-bottom: 4rem;
     border-radius: 30px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+
+
 
 }
 
@@ -32,4 +36,20 @@ h1{
 
 h3{
     color: rgb(79, 36, 120);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
 }
+
+
+p{
+    padding: 1rem;
+    padding-left: 2rem;
+}
+
+
+li{
+    padding: auto;
+    padding-left: 2rem;
+}
+
+
