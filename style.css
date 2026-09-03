@@ -1,1 +1,35 @@
+body{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    font-size: larger;
+    background-image: url("hb2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex;
 
+}
+
+
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(177, 195, 227);
+    padding: 2rem;
+    padding-bottom: 4rem;
+    border-radius: 30px;
+
+}
+
+h1{
+    margin-bottom: 3rem;
+    display: flex;
+}
+
+
+h3{
+    color: rgb(79, 36, 120);
+}
